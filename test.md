@@ -9,5 +9,13 @@ git config --global user.email "junaid.warsi123@gmail.com"
 git commit -m "Second Commit"
 git push
 
+git status
+git add .
+git checkout -b feature/test
+git commit -a -m "First commit"
+git push -u origin feature/test
+//mistake/??
+
+
 
 git checkout -b tests// new branch
